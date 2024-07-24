@@ -492,7 +492,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "As a MERN Stack Developer and Certified Ethical Hacker, I have extensive experience in utilizing a wide array of cutting-edge technology tools. My expertise includes developing and deploying data science projects as web applications using cloud infrastructure. This experience has honed my skills in both backend and frontend development, as well as in implementing robust security measures to ensure the integrity and confidentiality of data.",
   avatar_image_path: "",
 };
 
